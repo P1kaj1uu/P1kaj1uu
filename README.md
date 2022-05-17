@@ -5,9 +5,6 @@
 </h1>
 <h3 align="center">A Student Developer from China</h3>
 <br>
-<div align="center">
-  <img src="https://metrics.lecoq.io/P1Kaj1uu?template=classic&pagespeed=1&reactions=1&base.indepth=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&reactions.details=%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99&pagespeed.url=https%3A%2F%2FP1Kaj1uu.github.io&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai" >
-</div>
 <!-- 徽章start -->
 <p align="center">
   <!-- Github徽章 -->
