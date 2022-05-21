@@ -35,14 +35,5 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P1Kaj1uu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,df614c,c55b64,a15285&theme=graywhite" />
 </div>
 <!-- 统计卡片end -->
-<br>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=P1Kaj1uu&theme=dracula&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 
