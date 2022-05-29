@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=27&center=true&vCenter=true&width=850&lines=Hi+%2C+I'm+P1Kaj1uu%EF%BC%81%E9%9B%B6%E5%A3%B9%E5%B9%B4%E5%A4%8F%EF%BC%8C%E7%94%9F%E4%BA%8E%E5%8D%97%E6%96%B9%EF%BC%81%E6%AC%A2%E8%BF%8E%E6%82%A8%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub%EF%BC%81" />
   </a>
 </h1>
-<h3 align="center">A Student Developer from China Who Loves Web</h3>
+<h3 align="center">A Student Developer From China Who Loves Web</h3>
 <br>
 <!-- 徽章start -->
 <p align="center">
