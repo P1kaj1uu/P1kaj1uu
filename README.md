@@ -13,9 +13,9 @@
   <!-- Github徽章 -->
   <a href="https://github.com/P1Kaj1uu" target="_blank"><img src="https://img.shields.io/badge/GitHub-P1Kaj1uu-brightgreen"></a>
   <!-- 力扣徽章 -->
-  <a href="https://leetcode.cn/u/igdragon/" target="_blank"><img src="https://img.shields.io/badge/website-LeetCode-orange"></a>
+  <a href="https://leetcode.cn/u/igdragon/" target="_blank"><img src="https://img.shields.io/badge/Coding-LeetCode-orange"></a>
   <!-- 个人博客徽章 -->
- <a href="https://www.cnblogs.com/P1Kaj1uu" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
+ <a href="https://www.cnblogs.com/P1Kaj1uu" target="_blank"><img src="https://img.shields.io/badge/Blogs-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
   <!-- 个人网站徽章 -->
   <a href="https://igdragon.top" target="_blank">
     <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
