@@ -18,7 +18,10 @@
  <a href="https://www.cnblogs.com/P1Kaj1uu" target="_blank"><img src="https://img.shields.io/badge/Blog-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
   <!-- 个人网站徽章 -->
   <a href="https://igdragon.top" target="_blank">
-    <img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
+    <img src="https://img.shields.io/badge/Website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue" alt="个人网站">
+  </a>
+  <a href="http://121.36.82.52:9200/#/" target="_blank">
+    <img src="https://img.shields.io/badge/Project-%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE-blueviolet" alt="个人项目">
   </a>
 </p>
 <!-- 徽章end -->
