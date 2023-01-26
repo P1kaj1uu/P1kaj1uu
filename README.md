@@ -13,7 +13,7 @@
   <!-- Github徽章 -->
   <a href="https://github.com/P1Kaj1uu" target="_blank"><img src="https://img.shields.io/badge/GitHub-P1Kaj1uu-brightgreen"></a>
   <!-- 力扣徽章 -->
-  <a href="https://leetcode.cn" target="_blank"><img src="https://img.shields.io/badge/Coding-LeetCode-orange"></a>
+  <a href="https://leetcode.cn/u/igdragon/" target="_blank"><img src="https://img.shields.io/badge/Coding-LeetCode-orange"></a>
   <!-- 个人博客徽章 -->
  <a href="https://www.cnblogs.com/P1Kaj1uu" target="_blank"><img src="https://img.shields.io/badge/Blog-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
   <!-- 个人网站徽章 -->
