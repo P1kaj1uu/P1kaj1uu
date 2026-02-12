@@ -10,6 +10,8 @@
 
 - 🔭 I'm currently working on **Double Non undergrad and 211 Double First-Class master's background, familiar with front-end technologies and back-end technologies, and real-world full-stack practice.**
 
+- 👯 I'm looking to collaborate on **Front-end work such as Vue and React, back-end Java work, Python work.**
+
 - ⚡ I'm have received some awards, such as the following awards:
   - **One of the members of the ACM school team**
   - **Software Engineer (Intermediate Level)**
@@ -23,10 +25,6 @@
   - **Provincial First Prize in the third innovation competition of the business big data analysis practical competition**
   - **Provincial Second Prize in Innovation and Entrepreneurship Competition**
   - **University Scholarship, National Endeavor Scholarship**
-
-- 🌱 I'm currently learning **C++, OpenCV, etc.**
-
-- 👯 I'm looking to collaborate on **Front-end work such as Vue and React, back-end Java work, Python work.**
 
 - 💬 Ask me about **Wechat：Dveiklokk**
 
