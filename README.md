@@ -26,7 +26,7 @@
   - **Provincial Second Prize in Innovation and Entrepreneurship Competition**
   - **University Scholarship, National Endeavor Scholarship**
 
-- 💬 Ask me about **Wechat：Dveiklokk**
+- 💬 Ask me about **WeChat：Dveiklokk**
 
 - 📫 How to reach me **891523233@qq.com**
 
