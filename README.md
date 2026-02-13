@@ -63,23 +63,25 @@
 
 ## 🤝 联系我
 
-<p align="left">
-  <a href="https://github.com/P1kaj1uu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="P1kaj1uu" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/p1kaj1uu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="p1kaj1uu" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/p1kaj1uu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="p1kaj1uu" height="30" width="40" />
-  </a>
-</p>
+- ✅ Github：https://github.com/P1kaj1uu
+- ✅ Kaggle：https://kaggle.com/p1kaj1uu
+- ✅ LeetCode：https://leetcode.com/p1kaj1uu
 
 ---
 
 ## 📊 GitHub 数据
 
 <p align="center" style="display: flex; gap: 10px; justify-content: center; align-items: stretch;">
+  <img width="48%" src="https://star-orcin.vercel.app/api?username=P1Kaj1uu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&order=1" style="object-fit: cover; height: 200px;" alt="stats graph"  />
+  
+  <img width="48%" src="https://star-orcin.vercel.app/api/top-langs?username=P1Kaj1uu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vue&hide_border=true&order=2" style="object-fit: cover; height: 200px;" alt="languages graph"  />
+  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=P1kaj1uu&theme=github-dark&hide_border=true" alt="P1kaj1uu" style="object-fit: cover; height: 200px;" />
+  
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=P1Kaj1uu&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true" alt="P1kaj1uu" style="object-fit: cover; height: 200px;" />
 </p>
+
+
+<img align="right" height="150" src="https://s1.aigei.com/src/img/gif/74/7453494983ce4f8cac339714ed716314.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:PxmDq2Quemh2AGmw8NFTnidhJHY="  />
+
+
