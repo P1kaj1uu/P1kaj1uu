@@ -76,7 +76,7 @@
   
   <img width="48%" src="https://star-orcin.vercel.app/api/top-langs?username=P1Kaj1uu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vue&hide_border=true&order=2" style="object-fit: cover; height: 200px;" alt="languages graph"  />
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=P1kaj1uu&theme=github-dark&hide_border=true" alt="P1kaj1uu" style="object-fit: cover; height: 200px;" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=P1Kaj1uu&theme=dark" alt="P1kaj1uu" style="object-fit: cover; height: 200px;" />
   
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=P1Kaj1uu&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true" alt="P1kaj1uu" style="object-fit: cover; height: 200px;" />
 </p>
