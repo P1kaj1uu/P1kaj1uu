@@ -14,7 +14,7 @@
 - 🎓 教育经历：双非本科（计算机科学与技术） & 211双一流硕士（电子信息）
 - 🌱 掌握前端（Vue, React） 与 后端（Java, Python, kotlin） 全栈开发实践
 - 👯 希望合作：Vue/React 前端项目、Java 后端、Python 应用
-- 💬 欢迎交流：全栈开发、竞赛经历、技术成长、工作内推
+- 💬 欢迎交流：全栈开发、竞赛经历、技术成长、项目代做、工作内推
 - 📱 微信：Dveiklokk
 - 📫 邮箱：891523233@qq.com
 - ✍️ 技术博客： [https://cnblogs.com/P1Kaj1uu](https://cnblogs.com/P1Kaj1uu)
