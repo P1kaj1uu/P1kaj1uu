@@ -66,6 +66,7 @@
 - ✅ Github：https://github.com/P1kaj1uu
 - ✅ Kaggle：https://kaggle.com/p1kaj1uu
 - ✅ LeetCode：https://leetcode.com/p1kaj1uu
+- ✅ Codeforces：https://codeforces.com/profile/P1Kaj1uu
 
 ---
 
