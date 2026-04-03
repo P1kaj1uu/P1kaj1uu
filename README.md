@@ -67,6 +67,7 @@
 - ✅ Kaggle：https://kaggle.com/p1kaj1uu
 - ✅ LeetCode：https://leetcode.com/p1kaj1uu
 - ✅ Codeforces：https://codeforces.com/profile/P1Kaj1uu
+- ✅ 洛谷：https://www.luogu.com.cn/user/808407
 
 ---
 
