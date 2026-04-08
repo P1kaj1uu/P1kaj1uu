@@ -20,7 +20,7 @@
 - ✍️ 技术博客： [https://cnblogs.com/P1Kaj1uu](https://cnblogs.com/P1Kaj1uu)
 - ⭐ 个人作品： [https://chatty-play-agent.vercel.app](https://chatty-play-agent.vercel.app)
 - 📦 推荐项目：[https://github.com/P1Kaj1uu/ChattyPlay-Agent](https://github.com/P1kaj1uu/ChattyPlay-Agent)
-- ❤️ 如果喜欢我的开源项目，可以赞助 [一杯咖啡~](Sponsor.md)
+- ❤️ 如果喜欢我的开源项目，可以赞助支持 [一杯咖啡~](Sponsor.md)
 
 ---
 
