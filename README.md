@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm P1Kaj1uu</h1>
-<h3 align="center">一名全栈技术爱好者</h3>
+<h3 align="center">一名全栈技术的爱好者</h3>
 
 ---
 
