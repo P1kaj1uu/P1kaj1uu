@@ -11,11 +11,9 @@
 
 ## 🧑‍💻 关于我
 
-- 🎓 教育经历：双非本科（计算机科学与技术） & 211双一流硕士（电子信息）
 - 🌱 掌握前端（Vue, React） 与 后端（Java, Python, kotlin） 全栈开发实践
 - 👯 希望合作：Vue/React 前端项目、Java 后端、Python 应用、kotlin 安卓
 - 💬 欢迎交流：全栈开发、竞赛经历、技术成长、项目代做、商务合作、工作内推
-- 📱 微信：Dveiklokk
 - 📫 邮箱：891523233@qq.com
 - ✍️ 技术博客： [https://cnblogs.com/P1Kaj1uu](https://cnblogs.com/P1Kaj1uu)
 - ⭐ 个人作品： [https://chatty-play-agent.vercel.app](https://chatty-play-agent.vercel.app)
@@ -24,51 +22,10 @@
 
 ---
 
-## 🏆 荣誉奖项
-
-<details open>
-<summary><b>📜 学术与专业资质</b></summary>
-
-- 🔭 软件设计师（中级）
-- 📄 发明专利两项实审中，软件著作权两项
-- 📚 CCF-C中科院一区TOP期刊论文一篇，CCF-B中科院二区期刊论文一篇，EI会议论文，学报
-- 🏅 校级奖学金，院级奖学金，国家励志奖学金
-- 🌐 英语四级，计算机三级网络技术
-
-</details>
-
-<details open>
-<summary><b>💻 算法与程序设计</b></summary>
-
-- 🧠 ACM 校队成员
-- 📐 MathorCup数学建模竞赛 全国一等奖
-- 📐 亚太杯数学建模竞赛 全国一等奖
-- ☕ 蓝桥杯 Java组 全国三等奖
-- 🥈 全国高校计算机能力挑战赛程序设计竞赛 Java组 省级二等奖
-- 🌍 传智杯 Web开发 全国一等奖
-- 🥇 校级程序设计竞赛 一等奖
-
-</details>
-
-<details open>
-<summary><b>📊 创新与外语</b></summary>
-
-- 🥇 全国大学生英语竞赛（NETCCS）省级一等奖
-- 🥇 三创赛 商业大数据分析实战赛项 省级二等奖
-- 🥈 创新创业大赛 省级二等奖
-- 🥈 外研社英语竞赛 省级二等奖
-
-</details>
-
----
-
 ## 🤝 联系我
 
 - ✅ Github：https://github.com/P1kaj1uu
-- ✅ Kaggle：https://kaggle.com/p1kaj1uu
 - ✅ LeetCode：https://leetcode.com/p1kaj1uu
-- ✅ Codeforces：https://codeforces.com/profile/P1Kaj1uu
-- ✅ 洛谷：https://www.luogu.com.cn/user/808407
 
 ---
 
